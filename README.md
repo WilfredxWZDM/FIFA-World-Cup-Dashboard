@@ -1,6 +1,9 @@
 CP 321 – Data Visualization
+
 Assignment 7
+
 Check dropbox for due date
+
 Check and follow the submission instructions at the end of this document
 As stated in the syllabus, late submissions are not accepted.
 
